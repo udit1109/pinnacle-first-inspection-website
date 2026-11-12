@@ -1,0 +1,4 @@
+# Keep supplied working documents and internal organization files out of the public website repository.
+*.docx
+Organisation Chart*.pdf
+Organisation Chart*.png
